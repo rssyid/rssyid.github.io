@@ -22,14 +22,14 @@ foo:
 main:
   - title: "Home"
     url: /docs/quick-start-guide/
+  - title: "Archive by Tag"
+    url: /tag-archive/
+  - title: "Archive by Year"
+    url: /collection-archive/
+  - title: "Archive by Category"
+    url: /category-archive.md/
   - title: "About"
     url: /about/
-  - title: "Archive by Year"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Page A"
-    url: /page-a/
 
 
 # documentation links
