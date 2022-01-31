@@ -16,6 +16,9 @@ gem "github-pages", "~> 223", group: :jekyll_plugins
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-paginate", "~> 1.1.0"
+  gem "ekyll-sitemap", "~> 1.4.0"
+  gem "jekyll-gist", "~> 1.5.0"
   gem "jekyll-feed", "~> 0.15.1"
   gem "jekyll-remote-theme", "~> 0.4.3"
   gem "jekyll-include-cache", "~> 0.2.1"
