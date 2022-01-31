@@ -20,14 +20,12 @@ foo:
 
 # main links
 main:
-  - title: "Home"
-    url: /docs/quick-start-guide/
   - title: "Archive by Tag"
-    url: /tag-archive/
+    url: /tags/
   - title: "Archive by Year"
-    url: /collection-archive/
+    url: /year-archive/
   - title: "Archive by Category"
-    url: /category-archive.md/
+    url: /categories/
   - title: "About"
     url: /about/
 
