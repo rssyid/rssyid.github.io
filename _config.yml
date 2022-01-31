@@ -60,10 +60,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  
+
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rasyid Ahyar Dalimunthe"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
