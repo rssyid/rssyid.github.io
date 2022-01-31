@@ -21,7 +21,7 @@
 title: Spatial Pandawan
 email: rasyid.dalimunthe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  spatial pandawan, interested in automation.
+  interested in automation,
   python, js, GIS and cartography
 domain: rssyid.github.io 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,9 +30,12 @@ twitter_username: rssyid
 github_username:  rssyid
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
