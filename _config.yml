@@ -114,7 +114,10 @@ footer:
 
 # Build settings
 #theme: minima
-
+# Reading Files
+include:
+  - .htaccess
+  - _pages
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
