@@ -12,13 +12,11 @@ tags:
   - image
   - layout
 ---
+Deretan Tiga lagu teratas minggu ini dipersembahkan oleh:
 
-
-5. The Dillinger Escape Plan - Prancer
+1. The Dillinger Escape Plan - Prancer
 {% include video id="VAlbsuy3W_M" provider="youtube" %}
-4. 
-3. 
-2. 
-1. YouTube video embed below.
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+2. Mario Zwinkle - Knows Me Better
+{% include video id="os_JFb9Dp5A" provider="youtube" %}
+3. The Misfits - I Turned into a Martian
+{% include video id="khVNFS3xVA8" provider="youtube" %}
