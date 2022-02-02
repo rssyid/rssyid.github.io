@@ -1,5 +1,6 @@
 ---
 title: "Playlist Minggu Ini"
+show_date: true
 #header:
 #  image: /assets/images/unsplash-image-6.jpg
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
