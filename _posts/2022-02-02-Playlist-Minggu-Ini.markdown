@@ -1,16 +1,15 @@
 ---
 title: "Playlist Minggu Ini"
-header:
-  image: /assets/images/unsplash-image-6.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#header:
+#  image: /assets/images/unsplash-image-6.jpg
+#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Music
   - Video
 tags:
-  - edge case
-  - featured image
-  - image
-  - layout
+  - The Dillinger Escape Plan
+  - Mario Zwinkle
+  - The Misfits
 ---
 Deretan Tiga lagu teratas minggu ini dipersembahkan oleh:
 
